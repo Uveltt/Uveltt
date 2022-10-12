@@ -10,4 +10,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/832910537343893504)](https://discord.com/users/832910537343893504)
 
-![Uvelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvelt&show_icons=true&theme=dracula)
+![Uvelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=uveltt&show_icons=true&theme=dracula)
