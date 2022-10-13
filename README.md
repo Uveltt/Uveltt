@@ -4,7 +4,7 @@
 
 <hr>
 
-### You can view all of my projects on my [profile](https://github.com/Uveltt).
+### You can view all of my projects [here](https://github.com/Uveltt?tab=repositories).
 
 <hr>
 
