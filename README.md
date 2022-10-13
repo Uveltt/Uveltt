@@ -4,7 +4,7 @@
 
 <hr>
 
-### You can view the rest of my projects on my [profile](https://github.com/Uveltt). About everything I work on is open source, and I'm always up for suggestions!
+### You can view all of my projects on my [profile](https://github.com/Uveltt).
 
 <hr>
 
