@@ -1,6 +1,6 @@
 # Hey there, I'm [Uvelt]() 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pr,blender)](https://skillicons.dev)https://camo.githubusercontent.com/620621b724856dc76fac8c5ff839f0147f93f64eb13ad4f69a5b33741eedbded/68747470733a2f2f692e696d6775722e636f6d2f4f4331526353352e6a7067
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,pr,blender)](https://skillicons.dev)
 
 <hr>
 
