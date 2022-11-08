@@ -9,6 +9,6 @@
 
 <hr>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/832910537343893504)](https://discord.com/users/832910537343893504)
+[![Discord Presence](https://lanyard.cnrad.dev/api/239410666086203394)](https://discord.com/users/239410666086203394)
 
 ![Uvelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=uveltt&show_icons=true&theme=dracula)
