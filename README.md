@@ -10,5 +10,3 @@
 <hr>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/239410666086203394)](https://discord.com/users/239410666086203394)
-
-![Uvelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=uveltt&show_icons=true&theme=dracula)
