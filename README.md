@@ -9,4 +9,4 @@
 
 <hr>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/239410666086203394)]()
+[![Discord Presence](https://lanyard.cnrad.dev/api/239410666086203394)](https://discord.dog/239410666086203394)
