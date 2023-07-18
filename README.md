@@ -1,7 +1,7 @@
 # Hey there, I'm [Uvelt](https://uvelt.xyz) 👋
 
 ### I'm mainly a front-end developer and thumbnail designer!
-[![What I Use](https://skillicons.dev/icons?i=js,html,css,vscode,visualstudio,powershell,nodejs,ps,pr,mongodb,react,github,lua,blender)]()
+[![What I Use](https://skillicons.dev/icons?i=js,html,css,vscode,visualstudio,powershell,nodejs,ps,pr,mongodb,github,lua,blender)]()
 
 <hr>
 
