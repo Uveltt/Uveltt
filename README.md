@@ -5,4 +5,4 @@
 
 <hr>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/854034205020782603)](https://discord.dog/854034205020782603)
+[![Discord Presence](https://lanyard.cnrad.dev/api/854034205020782603?borderRadius=5px&idleMessage=Chillin%27&bg=a&animated=true;)](https://discord.dog/854034205020782603)
