@@ -1,6 +1,6 @@
 # Hey there, I'm [Uvelt](https://uvelt.xyz) 👋
 
-## I'm a 13-year-old Web Developer & Designer!
+## I'm a Web Developer & Designer!
 [![What I Use](https://skillicons.dev/icons?i=js,html,css,vscode,visualstudio,tailwind,react,ps,pr,nextjs,figma,lua)]()
 
 <hr>
