@@ -6,4 +6,4 @@
 <hr>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/854034205020782603?borderRadius=5px&idleMessage=Chillin%27&bg=a&animated=true;)](https://discord.dog/854034205020782603)
-[![Telegram](https://api.status.gg/telegram/6611417322?width=200)](https://t.me/uveltt)
+[![Telegram](https://api.status.gg/telegram/6611417322?width=300&theme%5Bbackground%5D%5Bsecondary%5D=232937)](https://t.me/uveltt)
