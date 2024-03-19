@@ -1,7 +1,7 @@
 # Hey there, I'm [Uvelt](https://uvelt.xyz) 👋
 
 ## I'm a Web Developer & Designer.
-[![What I Use](https://skillicons.dev/icons?i=js,html,css,vscode,ts,tailwind,react,ps,pr,nextjs,figma)](https://uvelt.xyz)
+[![What I Use](https://skillicons.dev/icons?i=js,ts,html,css,vscode,tailwind,react,ps,pr,nextjs,figma)](https://uvelt.xyz)
 
 <hr>
 
