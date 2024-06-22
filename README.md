@@ -1,7 +1,7 @@
 # Hey there, I'm [Uvelt](https://uvelt.dev) 👋
 
 ## I'm a Web Developer & Designer.
-### All my projects are private repositories, don't expect anything.
+All my projects are private repositories, don't expect anything.
 [![What I Use](https://skillicons.dev/icons?i=js,html,css,ts,vscode,tailwind,react,ps,pr,nextjs,figma)](https://uvelt.dev)
 
 <hr>
