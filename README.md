@@ -2,7 +2,7 @@
 
 ## A Web Developer & UI/UX Designer.
 
-[![What I Use](https://skillicons.dev/icons?i=js,html,css,ts,vscode,tailwind,react,ps,nextjs,figma,swift,postgres)](https://uvelt.dev)
+[![What I Use](https://skillicons.dev/icons?i=js,html,css,ts,vscode,tailwind,react,ps,nextjs,figma,swift,postgres,nuxt)](https://uvelt.dev)
 
 <hr>
 
